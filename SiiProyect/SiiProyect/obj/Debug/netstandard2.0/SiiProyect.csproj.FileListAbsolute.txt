@@ -1,0 +1,12 @@
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\bin\Debug\netstandard2.0\SiiProyect.deps.json
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\bin\Debug\netstandard2.0\SiiProyect.dll
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\bin\Debug\netstandard2.0\SiiProyect.pdb
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\obj\Debug\netstandard2.0\SiiProyect.csprojAssemblyReference.cache
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\obj\Debug\netstandard2.0\SiiProyect.csproj.CoreCompileInputs.cache
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\obj\Debug\netstandard2.0\SiiProyect.AssemblyInfoInputs.cache
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\obj\Debug\netstandard2.0\SiiProyect.AssemblyInfo.cs
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\obj\Debug\netstandard2.0\SiiProyect.dll
+C:\Users\Antony-PC\source\repos\SiiProyect\SiiProyect\SiiProyect\obj\Debug\netstandard2.0\SiiProyect.pdb
