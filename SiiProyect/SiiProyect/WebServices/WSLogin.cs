@@ -22,11 +22,9 @@ namespace SiiProyect.WebServices
             //var authData = string.Format("{0}:{1}", "root", "root");
             //var authHeaderValue = Convert.ToBase64String(Encoding.UTF8.GetBytes(authData));
             //ttpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Basic", authHeaderValue);
-            //ws/sii/login/
             var respuesta = await httpClient.GetAsync("/ws/sii/login/" + user + "/" + pwd);
             var objJSON = respuesta.Content.ReadAsStringAsync().Result;
            
-            //Login objLogin = new Login();
             Login objLogin = new Login();
             List<String> list = new List<string>();
             Console.WriteLine("<" + Settings.Settings.token + ">");
